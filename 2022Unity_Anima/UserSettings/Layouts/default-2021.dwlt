@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 78
+  controlID: 51
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 84
+  controlID: 52
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 85
+  controlID: 110
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -307,7 +307,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -46288
+  m_LastSelectedObjectID: 23028
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -349,22 +349,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Alunos/Atv_Bolinha Quicando/Matheus_Pedrosa
+    - Assets/Alunos/Atv_PersBola/Matheus_bola
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Alunos/Atv_Bolinha Quicando/Matheus_Pedrosa
+  - Assets/Alunos/Atv_PersBola/Matheus_bola
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\APENAS\Documents\GitHub\UC_Animacao20222\2022Unity_Anima
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 625c0000
-    m_LastClickedID: 23650
-    m_ExpandedIDs: 000000009c5a0000a25a0000cc5a0000d05a0000da5a00000e5b0000625c000000ca9a3bffffff7f
+    m_SelectedIDs: 625a0000
+    m_LastClickedID: 23138
+    m_ExpandedIDs: 00000000485a00004a5a00004c5a00004e5a0000505a00005e5a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,7 +392,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009c5a0000
+    m_ExpandedIDs: 00000000485a00004a5a00004c5a00004e5a0000505a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,9 +417,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 344bffff
-    m_LastClickedInstanceID: -46284
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -520,9 +520,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 105e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 864affff264bffff304bffff344bffff364bfffffe4bffff024cffff424cffff4051ffffea51ffff2c54ffff225affff265affff665affff4062ffff2a63fffffa75ffff5076ffff5679ffffa27dffffd27effff388bffff3c8bffff408bffff748dffffb48dffff2a8effff8295ffff8695ffffc695ffff32a6ffff32b0ffff36b0ffff42b7ffff46b7ffff86b7ffff6ae3ffffdae5ffff52eaffff92f3ffffaaf7ffffc6f8ffff88f9ffff38fbffffae5b0000185d0000385d0000d85e0000445f0000645f0000fe5f000090600000
+      m_ExpandedIDs: b2d8ffff46e2ffff2af9ffff38fbfffff0590000ea5a0000765c0000865c00008a5d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -771,9 +771,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 8.805002, y: 2.5045285, z: -0.6787145}
+    m_Target: {x: 0, y: 0, z: -4.82}
     speed: 2
-    m_Value: {x: 8.805002, y: 2.5045285, z: -0.6787145}
+    m_Value: {x: 0, y: 0, z: -4.82}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -820,13 +820,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0019505473, y: -0.68819976, z: -0.0018513916, w: 0.725521}
+    m_Target: {x: -0.0009835471, y: -0.99782634, z: 0.015278426, w: -0.064157255}
     speed: 2
-    m_Value: {x: -0.0019533155, y: -0.68710834, z: -0.0018484574, w: 0.72655004}
+    m_Value: {x: -0.0009835432, y: -0.9978224, z: 0.015278365, w: -0.064157}
   m_Size:
-    m_Target: 0.2591759
+    m_Target: 31.638584
     speed: 2
-    m_Value: 0.2591759
+    m_Value: 31.638584
   m_Ortho:
     m_Target: 0
     speed: 2
