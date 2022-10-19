@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 649338191}
   - component: {fileID: 649338190}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: chao yan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -413,7 +413,7 @@ GameObject:
   - component: {fileID: 2104790388}
   - component: {fileID: 2104790387}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: bolinha yan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
