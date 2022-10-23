@@ -54,7 +54,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: root_bola_matheus
+  m_Name: matheus_animacao_bola
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
