@@ -103,7 +103,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TailAnt_Olhos
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 84
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4886936, y: 0.45087618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721a60b505981d4daa79f3074f207ef
+      internalID: -1386726800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TailAnt_Cabeca
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 333
+        width: 148
+        height: 155
+      alignment: 9
+      pivot: {x: 0.46149755, y: 0.17525358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358808935768cfe43acb936ec8c6e1b5
+      internalID: 815320361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TailAnt_Tail
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 119
+        width: 462
+        height: 185
+      alignment: 9
+      pivot: {x: 0.049802847, y: 0.25871706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce1d3e67f4daf409da676df1ad304b
+      internalID: 225243836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +177,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TailAnt_Cabeca: 815320361
+      TailAnt_Tail: 225243836
+      TailAnt_Olhos: -1386726800
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
