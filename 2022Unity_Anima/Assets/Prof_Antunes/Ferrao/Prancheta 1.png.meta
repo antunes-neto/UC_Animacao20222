@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 0
@@ -105,11 +105,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Prancheta 1_0
+      name: Ferrao_Cabeca
       rect:
         serializedVersion: 2
-        x: 266
-        y: 176
+        x: 265
+        y: 177
         width: 93
         height: 110
       alignment: 9
@@ -346,7 +346,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_1
+      name: Ferrao_TRonco
       rect:
         serializedVersion: 2
         x: 367
@@ -834,11 +834,11 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_2
+      name: Ferrao_PeEsq
       rect:
         serializedVersion: 2
-        x: 311
-        y: 3
+        x: 312
+        y: 4
         width: 62
         height: 178
       alignment: 9
@@ -1115,7 +1115,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_3
+      name: Ferrao_PeDir
       rect:
         serializedVersion: 2
         x: 262
@@ -1366,7 +1366,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_4
+      name: Ferrao_Echarpe01
       rect:
         serializedVersion: 2
         x: 377
@@ -1637,7 +1637,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_5
+      name: Ferrap_Ferrao
       rect:
         serializedVersion: 2
         x: 447
@@ -2049,7 +2049,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_7
+      name: Ferrao_Echarpe02
       rect:
         serializedVersion: 2
         x: 416
@@ -2309,6 +2309,69 @@ TextureImporter:
         boneIndex[1]: 0
         boneIndex[2]: 0
         boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Ferrao_EsqCoxa
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 111
+        width: 51
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6030719, y: 0.84929955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0efbe031430e4ab30ae54ab0478b0
+      internalID: 1973404007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferrao_EsqBatata
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22
+        width: 44
+        height: 86
+      alignment: 9
+      pivot: {x: 0.44690287, y: 0.84637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa242a1805f9c834aa9e298fe06a9650
+      internalID: -816850578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrao_EsqPe2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 38
+        height: 19
+      alignment: 9
+      pivot: {x: 0.7459267, y: 0.68444484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b9b00f1349a042af7d6116ade4689
+      internalID: 698361330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2320,14 +2383,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Prancheta 1_5: 217285312
-      Prancheta 1_0: 315305095
-      Prancheta 1_7: -114475289
+      Ferrao_Echarpe02: -114475289
       Prancheta 1_6: 1063148078
-      Prancheta 1_4: 1018639007
-      Prancheta 1_1: 699068520
-      Prancheta 1_3: 2068738880
-      Prancheta 1_2: 1180058759
+      Ferrao_PeEsq: 1180058759
+      Ferrao_Echarpe01: 1018639007
+      Ferrao_EsqPe2: 698361330
+      Ferrap_Ferrao: 217285312
+      Ferrao_PeDir: 2068738880
+      Ferrao_TRonco: 699068520
+      Ferrao_Cabeca: 315305095
+      Ferrao_EsqCoxa: 1973404007
+      ferrao_EsqBatata: -816850578
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
