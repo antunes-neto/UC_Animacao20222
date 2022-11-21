@@ -101,11 +101,23 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ferrao_Cabeca
+      name: Ferrao_Cabeca yan
       rect:
         serializedVersion: 2
         x: 265
@@ -346,7 +358,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrao_TRonco
+      name: Ferrao_TRonco yan
       rect:
         serializedVersion: 2
         x: 367
@@ -834,10 +846,10 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrao_PeEsq
+      name: Ferrao_PeEsq yan
       rect:
         serializedVersion: 2
-        x: 312
+        x: 313
         y: 4
         width: 62
         height: 178
@@ -1115,7 +1127,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrao_PeDir
+      name: Ferrao_PeDir yan
       rect:
         serializedVersion: 2
         x: 262
@@ -1366,11 +1378,11 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrao_Echarpe01
+      name: Ferrao_Echarpe01 yan
       rect:
         serializedVersion: 2
         x: 377
-        y: 8
+        y: 6
         width: 65
         height: 40
       alignment: 0
@@ -1637,7 +1649,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrap_Ferrao
+      name: Ferrap_Ferrao yan
       rect:
         serializedVersion: 2
         x: 447
@@ -1868,11 +1880,11 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Prancheta 1_6
+      name: Prancheta 1_6 yan
       rect:
         serializedVersion: 2
-        x: 207
-        y: 218
+        x: 208
+        y: 219
         width: 55
         height: 26
       alignment: 0
@@ -2049,7 +2061,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrao_Echarpe02
+      name: Ferrao_Echarpe02 yan
       rect:
         serializedVersion: 2
         x: 417
@@ -2310,11 +2322,11 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
     - serializedVersion: 2
-      name: Ferrao_EsqCoxa
+      name: Ferrao_EsqCoxa yan
       rect:
         serializedVersion: 2
         x: 210
-        y: 111
+        y: 110
         width: 51
         height: 102
       alignment: 9
@@ -2331,7 +2343,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ferrao_EsqBatata
+      name: ferrao_EsqBatata yan
       rect:
         serializedVersion: 2
         x: 218
@@ -2352,7 +2364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ferrao_EsqPe2
+      name: Ferrao_EsqPe2 yan
       rect:
         serializedVersion: 2
         x: 218
@@ -2383,17 +2395,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ferrao_Echarpe02: -114475289
-      Prancheta 1_6: 1063148078
-      Ferrao_PeEsq: 1180058759
-      Ferrao_Echarpe01: 1018639007
-      Ferrao_EsqPe2: 698361330
-      Ferrap_Ferrao: 217285312
-      Ferrao_PeDir: 2068738880
-      Ferrao_TRonco: 699068520
-      Ferrao_Cabeca: 315305095
-      Ferrao_EsqCoxa: 1973404007
-      ferrao_EsqBatata: -816850578
+      Ferrao_EsqPe2 yan: 698361330
+      Ferrap_Ferrao yan: 217285312
+      Ferrao_PeDir yan: 2068738880
+      Ferrao_EsqCoxa yan: 1973404007
+      ferrao_EsqBatata yan: -816850578
+      Ferrao_Echarpe01 yan: 1018639007
+      Ferrao_TRonco yan: 699068520
+      Ferrao_PeEsq yan: 1180058759
+      Ferrao_Echarpe02 yan: -114475289
+      Prancheta 1_6 yan: 1063148078
+      Ferrao_Cabeca yan: 315305095
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
