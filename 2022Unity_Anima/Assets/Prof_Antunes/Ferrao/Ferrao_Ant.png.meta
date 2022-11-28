@@ -369,37 +369,37 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones:
-      - name: CTRL_CORE
+      - name: CTRL_CORE_Fe
         guid: aabc2b66b16680d418a277399bc80a4c
-        position: {x: 66.55878, y: 43.706833, z: 0}
+        position: {x: 69.20169, y: 43.706795, z: 0}
         rotation: {x: 0, y: 0, z: 0.015615461, w: 0.9998781}
         length: 74.79804
         parentId: -1
         color:
           serializedVersion: 2
           rgba: 4278190335
-      - name: Bone_Bacia
+      - name: BoneFe_Bacia
         guid: a32429426f4f9f44fb8780f5c0a74f9e
-        position: {x: -26.910542, y: -0.912673, z: 0}
-        rotation: {x: 0, y: 0, z: -0.6415258, w: 0.7671015}
+        position: {x: -29.552212, y: -0.83010733, z: 0}
+        rotation: {x: 0, y: 0, z: -0.64152586, w: 0.76710147}
         length: 39.406628
         parentId: 0
         color:
           serializedVersion: 2
           rgba: 4278255615
-      - name: bone_Coluna
+      - name: boneFe_Coluna
         guid: 6f97b591e9655bc4f87d92f97f95e90b
-        position: {x: -26.85432, y: 0.83895856, z: 0}
-        rotation: {x: 0, y: 0, z: 0.6745874, w: 0.73819494}
+        position: {x: -29.49599, y: 0.9215242, z: 0}
+        rotation: {x: 0, y: 0, z: 0.6745875, w: 0.738195}
         length: 59.678555
         parentId: 0
         color:
           serializedVersion: 2
           rgba: 4278255360
-      - name: bone_Torax
+      - name: boneFe_Torax
         guid: 4065f5257337faa4683f871a98bf8dc3
         position: {x: 59.678547, y: 0.0000015907932, z: 0}
-        rotation: {x: 0, y: 0, z: 0.07423207, w: 0.9972411}
+        rotation: {x: 0, y: 0, z: 0.074232064, w: 0.997241}
         length: 65.09488
         parentId: 2
         color:
@@ -914,16 +914,16 @@ TextureImporter:
       - name: BoneFe_CoxaEsq
         guid: c2f7ba98f3628fc409e5ff0d762c1a4a
         position: {x: 30.842896, y: 160.22432, z: 0}
-        rotation: {x: 0, y: 0, z: -0.73748976, w: 0.67535836}
-        length: 82.26892
+        rotation: {x: 0, y: 0, z: -0.7374897, w: 0.6753584}
+        length: 82.26891
         parentId: -1
         color:
           serializedVersion: 2
           rgba: 4278190335
       - name: BoneFe_PernaEsq
         guid: 2787b02b153fd524e9745a5ae7e979ab
-        position: {x: 82.26892, y: 0.000005393018, z: 0}
-        rotation: {x: 0, y: 0, z: 0.24635316, w: 0.96918017}
+        position: {x: 82.26891, y: -0.000003119343, z: 0}
+        rotation: {x: 0, y: 0, z: 0.24635315, w: 0.96918017}
         length: 65.3899
         parentId: 0
         color:
@@ -931,8 +931,8 @@ TextureImporter:
           rgba: 4278255615
       - name: BoenFe_PernaEsq_02
         guid: db440147de2ac3244b2a84aaf33be0f1
-        position: {x: 65.38989, y: -0.0000028785425, z: 0}
-        rotation: {x: 0, y: 0, z: -0.13677488, w: 0.9906022}
+        position: {x: 65.38989, y: -0.0000043244872, z: 0}
+        rotation: {x: 0, y: 0, z: -0.13677493, w: 0.9906022}
         length: 6.9717016
         parentId: 1
         color:
@@ -942,15 +942,15 @@ TextureImporter:
         guid: e87573befadff1944a18cae60fcf8a7a
         position: {x: 56.276062, y: 6.997198, z: 0}
         rotation: {x: 0, y: 0, z: -0.9965053, w: 0.0835295}
-        length: 24.519365
+        length: 24.51937
         parentId: -1
         color:
           serializedVersion: 2
           rgba: 4294967040
       - name: BoneFe_PeEsq
         guid: 5e7c23afa5b421d4484a6f1bde3ea43e
-        position: {x: 24.519367, y: -0.000006712156, z: 0}
-        rotation: {x: 0, y: 0, z: -0.9540273, w: 0.2997199}
+        position: {x: 24.519371, y: -0.0000071121167, z: 0}
+        rotation: {x: 0, y: 0, z: -0.9540273, w: 0.29971993}
         length: 23.75766
         parentId: 3
         color:
@@ -1086,7 +1086,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.98
-        weight[1]: 0.02
+        weight[1]: 0.01999998
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1174,7 +1174,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.99
-        weight[1]: 0.01
+        weight[1]: 0.00999999
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1182,7 +1182,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.56080365
-        weight[1]: 0.43919644
+        weight[1]: 0.43919635
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1350,7 +1350,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.99
-        weight[1]: 0.01
+        weight[1]: 0.00999999
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1444,27 +1444,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones:
-      - name: bone_1
+      - name: BoneFe_CoxaDIr
         guid: 0d13b83302d54ad4596c9af873592661
         position: {x: 23.158539, y: 144.88702, z: 0}
         rotation: {x: 0, y: 0, z: -0.70053035, w: 0.7136226}
-        length: 64.27878
+        length: 64.27877
         parentId: -1
         color:
           serializedVersion: 2
           rgba: 4278190335
-      - name: bone_2
+      - name: BoneFe_PernaDir
         guid: 11e7cd7224ddde3449e9193f778d84cf
-        position: {x: 64.27877, y: 0.000013906554, z: 0}
+        position: {x: 64.27876, y: 0.000014047808, z: 0}
         rotation: {x: 0, y: 0, z: 0.12562786, w: 0.99207747}
         length: 62.369118
         parentId: 0
         color:
           serializedVersion: 2
           rgba: 4278255615
-      - name: bone_3
+      - name: BoneFe_PeDir
         guid: 8af02ac40097c7c46b6e3770b8ba49d2
-        position: {x: 62.36912, y: -0.0000053819394, z: 0}
+        position: {x: 62.36912, y: -0.000007019777, z: 0}
         rotation: {x: 0, y: 0, z: -0.67950356, w: 0.7336723}
         length: 29.741665
         parentId: 1
@@ -1794,28 +1794,28 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones:
-      - name: BoneE_TRonco
+      - name: BoneFe_TroncoX
         guid: 1d9f05b53f066204b9247a69ccf195a6
         position: {x: 36.11615, y: -20.090355, z: 0}
-        rotation: {x: 0, y: 0, z: 0.76702815, w: 0.6416134}
-        length: 23.142923
+        rotation: {x: 0, y: 0, z: 0.7670282, w: 0.6416134}
+        length: 23.142921
         parentId: -1
         color:
           serializedVersion: 2
           rgba: 4278190335
       - name: Bone Echarpe
         guid: a4235975d1b15ac41aa783358c4e94fb
-        position: {x: 23.142923, y: 0.0000010454886, z: 0}
+        position: {x: 23.14292, y: -0.00000316037, z: 0}
         rotation: {x: 0, y: 0, z: -0.039923526, w: 0.9992027}
-        length: 29.930637
+        length: 29.93064
         parentId: 0
         color:
           serializedVersion: 2
           rgba: 4278255615
-      - name: "bone_Cabe\xE7a"
+      - name: "boneFE_Cabe\xE7a"
         guid: 4a2c6e893ab4bf7459cc044cdea5f38f
-        position: {x: 29.930637, y: 0.000007965318, z: 0}
-        rotation: {x: 0, y: 0, z: 0.042676847, w: 0.99908894}
+        position: {x: 29.93064, y: 0.0000064010255, z: 0}
+        rotation: {x: 0, y: 0, z: 0.042676765, w: 0.999089}
         length: 16.03812
         parentId: 1
         color:
@@ -2261,7 +2261,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones:
-      - name: F_Ant_Bone_Ferrao
+      - name: BoneFe_ferrao
         guid: 8f263d430e658a643bc397ae25f86c25
         position: {x: 11.673981, y: 18.538212, z: 0}
         rotation: {x: 0, y: 0, z: -0.169148, w: 0.9855907}
@@ -2709,28 +2709,28 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones:
-      - name: bone_1
+      - name: boneFe_Echarpe01
         guid: e2daeb5e47d15e54bb75d2b629563756
         position: {x: 10.97583, y: 169.76059, z: 0}
-        rotation: {x: 0, y: 0, z: -0.41447446, w: 0.91006094}
+        rotation: {x: 0, y: 0, z: -0.41447443, w: 0.910061}
         length: 60.73824
         parentId: -1
         color:
           serializedVersion: 2
           rgba: 4278190335
-      - name: bone_2
+      - name: boneFe_Echarpe02
         guid: c708d75a31b68034aa86b211706d2310
-        position: {x: 60.738243, y: 0.000008604158, z: 0}
-        rotation: {x: 0, y: 0, z: -0.2795946, w: 0.9601182}
-        length: 67.99981
+        position: {x: 60.738235, y: 0.0000036105555, z: 0}
+        rotation: {x: 0, y: 0, z: -0.2795947, w: 0.9601181}
+        length: 67.9998
         parentId: 0
         color:
           serializedVersion: 2
           rgba: 4278255615
-      - name: bone_3
+      - name: boneFe_Echarpe03
         guid: 3a95800b816670740826d60bf3a1a638
-        position: {x: 67.9998, y: 0.00000006866526, z: 0}
-        rotation: {x: 0, y: 0, z: -0.08704853, w: 0.99620414}
+        position: {x: 67.9998, y: 0.000005931494, z: 0}
+        rotation: {x: 0, y: 0, z: -0.087048486, w: 0.99620414}
         length: 47.620632
         parentId: 1
         color:
@@ -3180,7 +3180,7 @@ TextureImporter:
       - name: bone_3
         guid: 93a081b081c66e8499fcb475e81146ee
         position: {x: 146.74178, y: -0.000004723235, z: 0}
-        rotation: {x: 0, y: 0, z: 0.10652851, w: 0.9943097}
+        rotation: {x: 0, y: 0, z: 0.106528535, w: 0.9943097}
         length: 41.862785
         parentId: 1
         color:
